@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin: 0px;
+}
+
+#boton {
+    float: right;
+}
+
+button {
+    background-color: #28B463;
+    border-radius: 5px;
+    margin: 15px;
+    padding: 5px;
+}
+
+header {
+    padding: 1px;
+    margin: 0px;
+    background-color: #5F6A6A;
+}
+
+header p {
+    text-align: center;
+    font-family: cursive;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: oblique;
+    padding-left: 0px;
+}
+
+main {
+    padding: 1px;
+    margin: 0px;
+    background-image: linear-gradient( rgba(217, 136, 128, 0.5), rgba(195, 155, 211, 0.5), rgba(127, 179, 213, 0.5), rgba(118, 215, 196, 0.5), rgba(243, 17, 224, 0.5), rgba(25, 209, 231, 0.5)), url(download.jpeg);
+    height: 480px;
+    width: 100%;
+}
+
+footer {
+    padding-top: 50%;
+    padding-bottom: 50%;
+    padding-left: 50%;
+    padding-right: 50%;
+}
